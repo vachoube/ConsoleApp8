@@ -9,5 +9,9 @@ namespace ConsoleApp8
     internal class SampleFile
     {
         public int MyProperty { get; set; }
+        public void DoTask1()
+        {
+
+        }
     }
 }
